@@ -1,7 +1,7 @@
 # Rabbit MQ C# Demo
 
 Watch the Tutorial Videos
-
+   
 Part1: https://www.youtube.com/watch?v=ui005IK8QZ8
 
 Part2: https://www.youtube.com/watch?v=z-32VSl9t3s
